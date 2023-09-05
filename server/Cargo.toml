@@ -6,3 +6,10 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+actix-web = "4.4.0"
+eyre = "0.6.8"
+git2 = "0.18.0"
+octocrab = "0.30.1"
+sea-orm = "0.12.2"
+tokei = "12.1.2"
+tokio = "1.32.0"
